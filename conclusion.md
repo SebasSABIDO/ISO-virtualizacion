@@ -4,4 +4,4 @@ La virtualización ha transformado la forma en que gestionamos y aprovechamos lo
 
 Por ello, entender y aplicar la virtualización es fundamental para cualquier organización que busque modernizar su infraestructura, optimizar su rendimiento y estar preparada para los desafíos tecnológicos del futuro.
 
-![conlcusion](https://spitecnologias.com/wp-content/uploads/virtualizacion.jpg)
+![conlcusion](img/virtualizacion.jpg)
